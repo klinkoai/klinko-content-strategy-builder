@@ -2,7 +2,7 @@
   <h1>🗂️ Klinko Content Strategy Builder</h1>
   <p><strong>Build a content strategy around real audience questions and demand.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Content Strategy Builder?
 
-Klinko Content Strategy Builder is an AI agent Skill for turning audience needs, questions, motivations, and decision stages into a focused content plan. It helps teams select themes, angles, formats, and priorities that serve a defined audience and business goal instead of producing disconnected topics or generic publishing calendars.
+Klinko Content Strategy Builder is an AI market research skill for turning audience needs, questions, motivations, and decision stages into a focused content plan. It helps teams select themes, angles, formats, and priorities that serve a defined audience and business goal instead of producing disconnected topics or generic publishing calendars.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Connect content themes to a specific audience and goal
 - Prioritize questions and topics by strategic relevance
@@ -35,7 +35,7 @@ Klinko Content Strategy Builder is an AI agent Skill for turning audience needs,
 | Format recommendations | Match content form to intent |
 | Priority roadmap | Decide what to publish first and why |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Content Strategy Builder is an AI agent Skill for turning audience needs,
 - Recommended formats and distribution angles
 - A prioritized roadmap tied to the business goal
 
-## Who this Skill is for
+## Who this skill is for
 
 - Content strategists
 - Growth teams
@@ -65,13 +65,13 @@ Klinko Content Strategy Builder is an AI agent Skill for turning audience needs,
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Content Strategy Builder workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Content Strategy Builder workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Positioning Strategist](https://github.com/klinkoai/klinko-positioning-strategist)
 - [Creative Brief Generator](https://github.com/klinkoai/klinko-creative-brief-generator)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
